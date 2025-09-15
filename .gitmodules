@@ -1,0 +1,6 @@
+[submodule "rabbit-fe"]
+	path = rabbit-fe
+	url = https://github.com/avgMax5/Rabbit-FE.git
+[submodule "rabbit-be"]
+	path = rabbit-be
+	url = https://github.com/avgMax5/Rabbit-BE.git
